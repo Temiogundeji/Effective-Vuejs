@@ -1,5 +1,5 @@
-# H1 Effective-Vuejs
-# H2 Refreshing my Vue.js knowledge
+# Effective-Vuejs
+## Refreshing my Vue.js knowledge
 
 **Effective-Vuejs** is a geared towards refreshing my knowledge of vue.js. Anybody interested can fork this project for us to learn together. You can also send mails to me @ *yusuffogundeji@gmail.com*.
  The following are what we will be learning in the process:
